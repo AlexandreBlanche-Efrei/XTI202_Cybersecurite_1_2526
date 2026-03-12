@@ -1,4 +1,4 @@
-# XTI202 - Cybersecurite 1 : Initiation
+# XTI202 - Cybersécurité 1 : Initiation
 Base de code pour les TP du module **XTI202**
 
 ## Page Moodle du cours :
